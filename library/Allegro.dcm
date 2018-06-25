@@ -4,4 +4,8 @@ $CMP A3910
 D Dual half bridge motor driver [SON-9]
 $ENDCMP
 #
+$CMP ACS730
+D Sens IHall
+$ENDCMP
+#
 #End Doc Library
