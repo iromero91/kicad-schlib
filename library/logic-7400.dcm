@@ -192,6 +192,10 @@ $CMP 74HC4050
 D Logic BUF.6 Level Shifting
 $ENDCMP
 #
+$CMP 74LVC1G34Z-7
+D Single Buffer Gate
+$ENDCMP
+#
 $CMP SN74LVCC3245A-SOIC
 D Octal level-shifting bus transciever
 $ENDCMP
