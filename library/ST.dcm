@@ -20,6 +20,10 @@ $CMP L79vvCV
 D Reg Lin -1.5A [TO-220]
 $ENDCMP
 #
+$CMP LIS3DH
+D MEMS Acccelerometer.3 I2C SPI
+$ENDCMP
+#
 $CMP ST490ABDR
 D Driver RS422 25Mbps FullDuplex [SOIC-8]
 $ENDCMP
