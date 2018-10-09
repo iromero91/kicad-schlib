@@ -8,6 +8,10 @@ $CMP 93LC46BT-I_OT
 D Mem EEPROM 1Kbit Microwire 2MHz [SOT-23-6]
 $ENDCMP
 #
+$CMP AT42QT1010
+D Proximity Detector 1ch [SON-9]
+$ENDCMP
+#
 $CMP CL520K4-G
 D Driver LED Fixed 20mA [TO-252]
 $ENDCMP
