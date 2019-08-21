@@ -536,6 +536,11 @@ $CMP TLV3501AIDBV
 D Comp 4.5ns RRI CMOS [SOT-23-6]
 $ENDCMP
 #
+$CMP TLV61046A
+D Reg Boost in:5.5V AdjV 980mA 1MHz [SOT-23-6]
+F http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=tlv61046a&fileType=pdf
+$ENDCMP
+#
 $CMP TLV702vvDBV
 D Reg LDO 300mA [SOT-23-5]
 $ENDCMP
