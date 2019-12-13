@@ -589,6 +589,11 @@ $CMP TPS61045DRB
 D Reg Boost in:6V AdjV 20mA 1MHz DigitalAdj [SON-8]
 $ENDCMP
 #
+$CMP TPS61169
+D Reg LED Boost in:2.7V-5.5V out:38V AdjI 1.8A 1.2MHz [SC-70-5]
+F http://www.ti.com/lit/gpn/tps61169
+$ENDCMP
+#
 $CMP TPS62080DSGT
 D Reg Buck in:6V AdjV 1.2A 2MHz Sync [WSON-8]
 $ENDCMP
